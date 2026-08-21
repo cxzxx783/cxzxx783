@@ -22,6 +22,7 @@
 | 项目 | 说明 |
 |---|---|
 | 📖 [专科生实习指南](https://github.com/cxzxx783/dazhuan-shixi-guide) | 高职/专科生求职实战手册:企业榜单 · 筛选方法论 · 投递攻略 · 简历面试 |
+| 🤖 [MCP Server 中文教程](https://github.com/cxzxx783/mcp-server-tutorial-zh) | 从零到一构建MCP Server:中文教程+可运行代码,Windows友好 |
 
 ## 🛠️ 关注的方向
 
