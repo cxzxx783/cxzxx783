@@ -4,12 +4,19 @@
 
 <div align="center">
 
+#### 🪪 身份
+
 ![数控](https://img.shields.io/badge/数控-3%2B2-0ea5e9)
 ![方向](https://img.shields.io/badge/方向-智能制造-22c55e)
 ![兴趣](https://img.shields.io/badge/兴趣-AI工具-f59e0b)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-建模-ff6a00)
-![Python](https://img.shields.io/badge/Python-自动化-3776AB)
-![Git](https://img.shields.io/badge/Git-GitHub-181717)
+![副业](https://img.shields.io/badge/副业-自媒体写作-8b5cf6)
+
+#### 🧰 技能
+
+![SolidWorks](https://img.shields.io/badge/SolidWorks-三维建模-ff6a00)
+![Python](https://img.shields.io/badge/Python-自动化脚本-3776AB)
+![Git](https://img.shields.io/badge/Git-版本管理-181717)
+![Markdown](https://img.shields.io/badge/Markdown-写作排版-000000)
 
 </div>
 
