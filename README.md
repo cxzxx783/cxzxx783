@@ -21,8 +21,10 @@
 
 | 项目 | 说明 |
 |---|---|
-| 📖 [专科生实习指南](https://github.com/cxzxx783/dazhuan-shixi-guide) | 高职/专科生求职实战手册:企业榜单 · 筛选方法论 · 投递攻略 · 简历面试 |
+| 🖋️ [墨痕·人味写作](https://github.com/cxzxx783/mohen) | 自媒体去AI味写作全流程 Skill:小红书/头条/百家号/公众号,7步主流程+7库模块 |
 | 🤖 [MCP Server 中文教程](https://github.com/cxzxx783/mcp-server-tutorial-zh) | 从零到一构建MCP Server:中文教程+可运行代码,Windows友好 |
+| 💰 [Cherry Studio 费用面板](https://github.com/cxzxx783/cherry-studio-cost-dashboard) | AI 费用 & Token 可视化仪表盘:纯本地,零依赖 |
+| 📖 [专科生实习指南](https://github.com/cxzxx783/dazhuan-shixi-guide) | 高职/专科生求职实战手册:企业榜单 · 筛选方法论 · 投递攻略 · 简历面试 |
 
 ## 🛠️ 关注的方向
 
