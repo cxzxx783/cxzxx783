@@ -7,6 +7,9 @@
 ![数控](https://img.shields.io/badge/数控-3%2B2-0ea5e9)
 ![方向](https://img.shields.io/badge/方向-智能制造-22c55e)
 ![兴趣](https://img.shields.io/badge/兴趣-AI工具-f59e0b)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-建模-ff6a00)
+![Python](https://img.shields.io/badge/Python-自动化-3776AB)
+![Git](https://img.shields.io/badge/Git-GitHub-181717)
 
 </div>
 
@@ -16,6 +19,14 @@
 - 🎯 目标:智能制造工程(职业本科)方向
 - 📍 江苏
 - 💡 相信"动手出真知":爱折腾数控编程、AI 工具、效率办公
+
+## 🧰 我的技术栈与工具箱
+
+- 🛠️ **三维建模**:SolidWorks
+- ⚙️ **数控编程**:加工工艺 / CAM 编程(在读深耕中)
+- 🐍 **写代码**:Python 自动化脚本(抓数据 · 处理文件 · 造小工具)
+- 🤖 **AI 工具**:DeepSeek / Claude / CherryStudio 重度玩家
+- 🐙 **版本管理**:Git & GitHub(新手,但已会开车)
 
 ## 📚 我的项目
 
